@@ -8,3 +8,6 @@ Links to documentation or other relevant resources.
 FOR PRACTICE: 
 HAVE TO GO TO PROFILE ON GITHUB AND MAKE A NEW REPOSITORY
 CAN USE TO PRACTICE MAKING FILES, HEADERS, LISTS, COMMITTING CHANGES, AND WORKING WITH BRANCHES
+use below to commit in TERMINAL
+git commit -m "Initial commit"
+git push origin main
